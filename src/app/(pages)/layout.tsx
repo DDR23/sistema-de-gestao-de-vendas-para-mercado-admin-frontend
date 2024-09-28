@@ -56,8 +56,8 @@ export default function PagesLayout({
           <div className="flex h-full max-h-screen flex-col gap-2">
             <div className="flex h-14 items-center border-b px-4 lg:h-[60px] lg:px-6">
               <Link href="/painel" className="flex items-center gap-2 font-semibold">
-              <Image src="/cabana-arbequina-logo.png" className="h-8 w-8" width={50} height={50} alt="cabana-arbequina-logo"/>
-                <span className="">Cabana Arbequina</span>
+              <Image src="/shop.png" className="h-8 w-8" width={50} height={50} alt="shop"/>
+                <span className="">Mini Market</span>
               </Link>
             </div>
             <div className="flex-1">
@@ -127,8 +127,8 @@ export default function PagesLayout({
                     href=""
                     className="flex items-center gap-2 text-lg font-semibold"
                   >
-                    <Image src="/cabana-arbequina-logo.png" className="h-8 w-8" width={50} height={50} alt="cabana-arbequina-logo"/>
-                    <span className="">Cabana Arbequina</span>
+                    <Image src="/shop.png" className="h-8 w-8" width={50} height={50} alt="shop"/>
+                    <span className="">Mini Market</span>
                   </Link>
                   <Link
                     href="/painel"

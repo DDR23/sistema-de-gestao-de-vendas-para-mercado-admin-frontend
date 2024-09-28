@@ -12,7 +12,6 @@ import { useEffect, useState } from "react"
 import usePost from "@/hooks/usePost"
 import { toast } from "../ui/use-toast"
 import Loading from "../ui/loading"
-import Image from "next/image"
 
 interface SigninFormValues {
   USER_EMAIL?: string;
@@ -74,7 +73,6 @@ export default function SigninForm() {
 
   return (
     <main className="flex h-screen w-screen flex-col items-center justify-center">
-      <Image src="/cabana-arbequina-light.png" width={200} height={200} alt="cabana arbeqina logo" />
       <Card style={{
         width: '30rem',
         maxWidth: '98vw',
