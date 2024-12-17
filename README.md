@@ -1,7 +1,7 @@
 # sistema-de-gestao-de-vendas-para-mercado-admin-frontend
 
 ## Sobre o projeto
-Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento de venda para minimarkets, essa parte é o FRONTEND dedicado para o gestor do mercado, aqui é onde todo controle de criação, cancelamento, finalização de compra e consulta de clientes é feita.
+Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento de venda para mercados locais, essa parte é o FRONTEND dedicado para o gestor do mercado, aqui é onde todo controle de criação, cancelamento, finalização de compra e consulta de clientes é feita.
 
 Projeto hospedado em: https://projeto-minimarket-backoffice.vercel.app/
 
