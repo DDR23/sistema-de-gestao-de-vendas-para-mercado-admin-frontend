@@ -4,6 +4,11 @@
 Esse é um projeto divido em 3 partes, trata-se de um sistema de gerenciamento de venda para mercados locais, essa parte é o FRONTEND dedicado para o gestor do mercado, aqui é onde todo controle de criação, cancelamento, finalização de compra e consulta de clientes é feita.
 
 Projeto hospedado em: https://projeto-minimarket-backoffice.vercel.app/
+### Credenciais de login para teste:
+```
+magaiver@bol.com
+12345678
+```
 
 ## Comandos para rodar o projeto
 
